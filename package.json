@@ -1,0 +1,16 @@
+{
+  "name": "automattestcasegeneration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/aiplatform": "^3.9.0",
+    "@google-cloud/vertexai": "github:googleapis/nodejs-vertexai",
+    "axios": "^1.6.2"
+  }
+}
